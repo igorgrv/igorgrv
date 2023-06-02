@@ -30,6 +30,7 @@
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/igorgrv)
+[![macOS](https://img.shields.io/badge/MAC_OS-black?style=for-the-badge&logo=macOS)](https://github.com/igorgrv)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 
 ### CI/CD
